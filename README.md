@@ -7,6 +7,7 @@ MOVEMENT: above certain ammo and number of weapons, strafe jump should not work,
 PHYSICS: fall damage increased, so no more cheese the match by jumping two levels from above to harass the players who are low on hp and armor.
 
 WEAPONS:
+
 -machinegun does random damage, each in every x 4-5 whatever shot deals massive damage, and ammo is very limited. So the role of MG is to use it mainly for defense or for covering/blind fire. 
 
 -gauntlet deals 75 damage + the missing health from maximum. The less health you have, the stonger the gauntlet.
